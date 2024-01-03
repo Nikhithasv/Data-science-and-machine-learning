@@ -43,7 +43,7 @@ During the internship, I:
 This repository serves as a documentation of my journey and the skills acquired during the summer internship. Feel free to explore the projects, code, and insights shared here.
 
 Connect with me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nikhitha-vasudevan-b2382a252/)
-- Email: [Your Email](mailto:nikhithavasudevan3@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/nikhitha-vasudevan-b2382a252/)
+- Email: (mailto:nikhithavasudevan3@gmail.com)
 
 Happy coding!
