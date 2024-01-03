@@ -44,6 +44,6 @@ This repository serves as a documentation of my journey and the skills acquired 
 
 Connect with me:
 - LinkedIn: (https://www.linkedin.com/in/nikhitha-vasudevan-b2382a252/)
-- Email: (mailto:nikhithavasudevan3@gmail.com)
+- Email: (nikhithavasudevan3@gmail.com)
 
 Happy coding!
